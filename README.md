@@ -45,10 +45,4 @@ A **personal portfolio website** built using **HTML** and **basic CSS** to showc
 └── README.md               # Project documentation
 ```
 
-## License
 
-This project is licensed under the **MIT License**.
-
----
-
-Feel free to adjust the text and structure as needed for your portfolio project!# portfolio-simple-website
