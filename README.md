@@ -27,4 +27,4 @@ This project is a simple yet effective digital presence that highlights my skill
 2. Open the `index.html` file in your browser to explore the Home Page.  
 3. Navigate to the Contact Page by clicking the appropriate link.
 
-Alternatively, you can check out the live demo [here]
+Alternatively, you can check out the live demo - https://sanjailaksh19.github.io/portfolio-simple-website/
